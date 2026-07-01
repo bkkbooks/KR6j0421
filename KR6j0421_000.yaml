@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0421/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大聖文殊師利菩薩讚佛法身禮
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1195.xml
+    old_id: T20n1195
+hash: sha256:e086b9adf3f565847c0ce8e9369d79d6022db4293723ac246feeafec9f674d8b

@@ -1,0 +1,56 @@
+canonical_identifier: bkk:krp/KR6j0421/v1
+canonical_location: https://kanripo.org/bkk/KR6j0421/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大聖文殊師利菩薩讚佛法身禮
+  identifiers:
+    alt_id:
+    - T20n1195
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1195.xml
+    old_id: T20n1195
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 明
+  label: 明
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0421_000.yaml, hash: 'sha256:e086b9adf3f565847c0ce8e9369d79d6022db4293723ac246feeafec9f674d8b'}
+  - {seq: 1, filename: KR6j0421_001.yaml, hash: 'sha256:c70801b29a12b94f2df23ed4701f492fe828c16958a85d3e4d398a74a2a191ce'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0421_001.markers.yaml, hash: 'sha256:3a95f87ef15b5de96b0e1b4c8f7e546210f2fd18a9196c7e141407c8905528cb'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0421_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1249
+  label: '大聖文殊師利菩薩讚佛法身禮
+
+    并序'
+  type: juan
+  level: 1
+hash: sha256:5e6ad10a5294eba5137559ac72636a9c810f228c9231a3e5d8087f073f6d8f5e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
