@@ -72,7 +72,6 @@ markers:
   - {type: punctuation, offset: 181, content: ，, id: KR6j0421_T_001-bkkpn20}
   - {type: punctuation, offset: 187, content: ，, id: KR6j0421_T_001-bkkpn21}
   - {type: line-break, offset: 188, content: '', id: KR6j0421_T_001-0936c21, ed: T, 'n': 0936c21}
-  - {type: substitution, offset: 189, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 193, content: 。, id: KR6j0421_T_001-bkkpn22}
   - {type: punctuation, offset: 201, content: ，, id: KR6j0421_T_001-bkkpn23}
   - {type: punctuation, offset: 205, content: ，, id: KR6j0421_T_001-bkkpn24}
@@ -98,7 +97,6 @@ markers:
   - {type: xml-element, offset: 247, content: '', id: pT20p0936c2505, name: p, role: open, attrs: {'xml:id': pT20p0936c2505, 'cb:place': inline}}
   - {type: punctuation, offset: 258, content: ，, id: KR6j0421_T_001-bkkpn33}
   - {type: line-break, offset: 260, content: '', id: KR6j0421_T_001-0936c26, ed: T, 'n': 0936c26}
-  - {type: substitution, offset: 262, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 269, content: ，, id: KR6j0421_T_001-bkkpn34}
   - {type: punctuation, offset: 274, content: ；, id: KR6j0421_T_001-bkkpn35}
   - {type: line-break, offset: 277, content: '', id: KR6j0421_T_001-0936c27, ed: T, 'n': 0936c27}
@@ -480,4 +478,4 @@ markers:
   - {type: xml-element, offset: 1249, content: '', id: pT20p0937c2601_end, name: p, role: close, attrs: {'xml:id': pT20p0937c2601}}
   - {type: line-break, offset: 1249, content: '', id: KR6j0421_T_001-0938a03, ed: T, 'n': 0938a03}
   back: []
-hash: sha256:3a95f87ef15b5de96b0e1b4c8f7e546210f2fd18a9196c7e141407c8905528cb
+hash: sha256:7bd2088104080ce461904b873fb94f95cfe3971fb905ef2ef59e26e42bf9d1e9
